@@ -18,5 +18,5 @@
 </h1>  
 </div>
 ---
-:fire: My Stats :
-
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kyle-mcr)](https://git.io/streak-stats)
