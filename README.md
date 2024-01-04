@@ -18,4 +18,4 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight)
