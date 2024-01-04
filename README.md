@@ -17,5 +17,7 @@
 <div id="body" align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=duskfox)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight" />
+</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight)
