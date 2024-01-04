@@ -15,6 +15,13 @@
 </h1>  
 </div>
 <div id="body" align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight" />
+<a id='stats' href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+<a id='stats' href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight" />
 </div>
+
+<style>
+#stats {
+  display: inline-block;
+  vertical-align: top;
+}
+</style>
