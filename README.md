@@ -17,5 +17,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>  
 </div>
----
+<div id="body" align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div>
