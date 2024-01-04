@@ -18,9 +18,9 @@
 <a id='stats' href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 <a style="vertical-align: top !important;" id='stats' href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight" />
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/kyle-mcr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight" />
 </a>
