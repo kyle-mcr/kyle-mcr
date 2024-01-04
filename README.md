@@ -15,10 +15,10 @@
 </h1>  
 </div>
 <div align="center">
+  <a href="https://github.com/kyle-mcr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight" />
+</a>
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=kyle-mcr&theme=duskfox&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/kyle-mcr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-mcr&layout=compact&theme=tokyonight" />
 </a>
 </div>
