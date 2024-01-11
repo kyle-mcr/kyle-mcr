@@ -15,5 +15,5 @@
 </h1>  
 </div>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=sunset-gradient&hide_border=true&exclude_days=Sun%2CSat&card_width=846" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kyle-mcr&theme=ayu-light&hide_border=true&exclude_days=Sun%2CSat&card_width=846" alt="GitHub Streak" /></a>
 </div>
